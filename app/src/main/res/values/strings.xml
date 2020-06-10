@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TapCounter</string>
+    <string name="tap">TapMe</string>
+    <string name="text">TapCounter</string>
+    <string name="score">View Score</string>
+    <string name="stop">Stop Timer</string>
+    <string name="start">Start Timer</string>
+    <string name="working">Started</string>
+    <string name="stopped">Stopped</string>
+</resources>
